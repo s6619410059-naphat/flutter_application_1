@@ -42,7 +42,7 @@ class HomeUi extends StatelessWidget {
               ),
             ),
             Text(
-              'Created by Sakunna Sangrussamee',
+              'Created by Naphat Kanhachai',
               style: TextStyle(
                 fontSize: 15.0,
                 fontWeight: FontWeight.normal,
